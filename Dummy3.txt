@@ -1,0 +1,10 @@
+qwerty
+Dummy3
+8866445.0
+Food
+loose
+solid12000.0
+hazard:true
+premium:false
+Karachi
+21 october

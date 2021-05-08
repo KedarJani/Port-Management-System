@@ -1,0 +1,10 @@
+qqq
+Dummy2
+876543.0
+Jeans
+container
+solid21000.0
+hazard:false
+premium:false
+Dubai
+21 october

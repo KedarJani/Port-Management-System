@@ -1,0 +1,10 @@
+1234
+Dummy10
+884435.0
+Cloths
+Container
+Solid12000.0
+hazard:false
+premium:false
+kachhch
+21 ocotber
